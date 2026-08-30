@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.75"
+        android:scaleY="0.75"
+        android:translateX="13.5"
+        android:translateY="13.5">
+        <!-- Graduation Cap Base & Diamond -->
+        <path
+            android:fillColor="#6366F1"
+            android:pathData="M54,26L22,40L54,54L86,40Z" />
+        <path
+            android:fillColor="#818CF8"
+            android:pathData="M54,26L86,40L54,54Z" />
+        <!-- Cap Underneath Structure -->
+        <path
+            android:fillColor="#4338CA"
+            android:pathData="M32,45.5L32,60C32,68 54,74 54,74C54,74 76,68 76,60L76,45.5L54,55Z" />
+        <!-- Tassel Cord and Tassel -->
+        <path
+            android:pathData="M54,40 L18,52 L18,66"
+            android:strokeWidth="3"
+            android:strokeColor="#F59E0B"
+            android:strokeLineCap="round" />
+        <path
+            android:fillColor="#FBBF24"
+            android:pathData="M15,66h6v8h-6z" />
+        <!-- AI Star Sparkle (Top Right) -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M78,20 L80,26 L86,28 L80,30 L78,36 L76,30 L70,28 L76,26 Z" />
+        <!-- AI Star Sparkle (Small Left) -->
+        <path
+            android:fillColor="#A5B4FC"
+            android:pathData="M24,24 L25.5,28 L29.5,29.5 L25.5,31 L24,35 L22.5,31 L18.5,29.5 L22.5,28 Z" />
+        <!-- Open Book Base Layer (Bottom) -->
+        <path
+            android:fillColor="#EEF2FF"
+            android:pathData="M26,72 C36,68 48,70 54,74 C60,70 72,68 82,72 L82,82 C72,78 60,80 54,84 C48,80 36,78 26,82 Z" />
+        <!-- Book Left Page Accent -->
+        <path
+            android:fillColor="#C7D2FE"
+            android:pathData="M28,74 C36,71 46,72 52,75 L52,82 C46,79 36,78 28,81 Z" />
+        <!-- Book Right Page Accent -->
+        <path
+            android:fillColor="#E0E7FF"
+            android:pathData="M56,75 C62,72 72,71 80,74 L80,81 C72,78 62,79 56,82 Z" />
+    </group>
+</vector>

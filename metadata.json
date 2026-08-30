@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate",
+  "description": "AI-Powered Learning Mastery Engine with knowledge maps, intelligent flashcards, multi-turn AI chat tutor, search grounding, focus sessions, and active study analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
